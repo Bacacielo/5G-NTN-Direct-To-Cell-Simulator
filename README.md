@@ -40,9 +40,9 @@ As the telecommunications industry races to close the global connectivity gap, D
   * Aerospace Toolbox
 
 ### Installation & Execution
-1. **Clone the repository:** `git clone https://github.com/yourusername/5G-NTN-Simulator.git`
+1. **Clone the repository:** `git clone https://github.com/Bacacielo/5G-NTN-Direct-To-Cell-Simulator.git`
 2. **Open MATLAB** and navigate to the project directory.
-3. **Run the main application file:** `app Master_UI();`
+3. **Run the main application file:** `app Master_UI;`
 4. **Using the UI:**
    * Select your constellation parameters and click Generate Constellation.
    * Execute Phase 2 (Build Array) and Phase 3 (Steer Beams).
@@ -56,4 +56,5 @@ As the telecommunications industry races to close the global connectivity gap, D
 ***
 
 *Developed as part of advanced telecommunications and aerospace research.* *For inquiries regarding the physics models or simulation architecture, please feel free to reach out.*
+
 
