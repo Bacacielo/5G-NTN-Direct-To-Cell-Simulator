@@ -1,4 +1,4 @@
-# 5G NTN Direct-to-Cell Simulator (Research Edition)
+# 5G NTN Direct-to-Cell Simulator
 
 A high-fidelity, system-level RF and Physical Layer (PHY) modeling framework evaluating the performance of Low Earth Orbit (LEO) satellite constellations providing direct broadband connectivity to unmodified 5G smartphones.
 
@@ -56,3 +56,4 @@ As the telecommunications industry races to close the global connectivity gap, D
 ***
 
 *Developed as part of advanced telecommunications and aerospace research.* *For inquiries regarding the physics models or simulation architecture, please feel free to reach out.*
+
